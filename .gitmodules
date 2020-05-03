@@ -1,0 +1,3 @@
+[submodule "particles/old_qt4_opengl_cpp"]
+	path = particles/old_qt4_opengl_cpp
+	url = https://github.com/artusrocha/particles.git
