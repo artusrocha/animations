@@ -4,3 +4,6 @@
 [submodule "old_qt4_opengl_cpp_offviewer"]
 	path = old_qt4_opengl_cpp_offviewer
 	url = https://github.com/artusrocha/offviewer.git
+[submodule "old_qt4_opengl_cpp_particles"]
+	path = old_qt4_opengl_cpp_particles
+	url = https://github.com/artusrocha/particles.git
